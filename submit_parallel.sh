@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+./util_run_parallel_command.sh "./submit.sh" "./submit.sh" "./submit.sh" "./submit.sh" "./submit.sh" "./submit.sh" "./submit.sh" "./submit.sh" "./submit.sh" "./submit.sh" "./submit.sh" "./submit.sh" "./submit.sh"

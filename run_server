@@ -1,0 +1,5 @@
+#!/bin/bash
+export WEB_APP_IP='172.18.0.3'
+
+source  /usr/lib/anaconda3/bin/activate /usr/lib/anaconda3/envs/judge
+dmoj $WEB_APP_IP -c config.yml
