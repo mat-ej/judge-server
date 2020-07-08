@@ -1,0 +1,4 @@
+# Create environment for both judge and runtime
+#TODO fix both envs only with necessary packages
+
+conda env create -f [environment YML]
