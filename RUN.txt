@@ -1,0 +1,3 @@
+dmoj-cli -c config.yml -- submit football PY3 submissions/football.py -tl 2000 -ml 5048576
+%dmoj-cli -c config.yml -- submit footballinteractive PY3 submissions/football_interactive.py -tl 2000 -ml 5048576
+
