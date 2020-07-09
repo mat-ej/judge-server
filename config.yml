@@ -8,7 +8,7 @@ key: "I*ap5w={2tXr/1%WM-pn$&tq<fR~5e>~MweVsbk!Fpy5q#$q[3~GfZXa?.Vl-T7q(RJ%e$Y0R6
 
 # Path relative to hack-judge/dmoj
 problem_storage_root:
-  - /root/judge-server/hack-problems/problems
+  - /judge-server/hack-problems/problems
 # All configuration for language executors
 # If you're unsure of what values a language needs, your best bet is to consult the source of the executor:
 # <https://github.com/DMOJ/judge/tree/master/dmoj/executors>
