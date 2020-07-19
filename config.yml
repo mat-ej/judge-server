@@ -1,5 +1,5 @@
 # This is the same ID you specified in the judge admin panel
-id: PythonConda3.7.7-Judge
+id: PythonJudge
 # The key this judge will use to authenticate with the site server, generated from the admin panel
 key: "I*ap5w={2tXr/1%WM-pn$&tq<fR~5e>~MweVsbk!Fpy5q#$q[3~GfZXa?.Vl-T7q(RJ%e$Y0R6K;?Ox9yl/;fIbc~$T+U(:UfGWU"
 # Where to look for problems on the local filesystem.
