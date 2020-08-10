@@ -63,6 +63,7 @@ class IsolateTracer(dict):
                 sys_ppoll: ALLOW,
                 sys_getgroups32: ALLOW,
                 sys_sched_getaffinity: ALLOW,
+                sys_sched_setaffinity: ALLOW,
                 sys_sched_getparam: ALLOW,
                 sys_sched_getscheduler: ALLOW,
                 sys_sched_get_priority_min: ALLOW,
